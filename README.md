@@ -1,4 +1,4 @@
-# 📊 Excel Data Analytics: Job Market Dashboard 2023
+# 📊 Excel Data Analytics: Data Jobs Market Dashboard 2023
 
 [![Excel](https://img.shields.io/badge/Tools-Excel-green?style=flat-square&logo=microsoftexcel)](https://www.microsoft.com/excel)
 [![Data Analysis](https://img.shields.io/badge/Field-Data_Analytics-blue?style=flat-square)](https://github.com/lukebarousse/Excel_Data_Analytics_Course)
@@ -39,7 +39,7 @@ This section details the visual components designed to turn raw data into action
 * **Representation:** A monochromatic blue scale highlights countries with available data, ensuring visual focus.
 * **Insights:** Clearly identifies geographic regions offering the most competitive salaries in the data sector.
 
-![Map chart]()
+![Map chart](images/MapChart.png)
 
 ---
 
